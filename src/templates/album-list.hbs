@@ -1,0 +1,10 @@
+{{#each albumList}}
+
+<div class="demo-card-image mdl-card mdl-shadow--2dp" style="width: 256px;height: 256px; background: url('http://lorempixel.com/400/200/cats/{{id}}') center / cover">
+    <div class="mdl-card__title mdl-card--expand"></div>
+    <div class="mdl-card__actions" style="height: 52px; padding: 16px; background: rgba(0, 0, 0, 0.2);">
+        <span class="demo-card-image__filename" style="color: #fff; font-size: 14px; font-weight: 500;">{{id}}.{{title}}</span>
+    </div>
+</div>
+
+{{/each}}
