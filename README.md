@@ -1,7 +1,7 @@
 # photo_app
-photo_album
+- git study / nodejs study output
 
-## 기술 내역.
+## technical description
 - build tool : "webpack",
 - HttpRequests : "axios"
   Promise based HTTP client for the browser and node.js
