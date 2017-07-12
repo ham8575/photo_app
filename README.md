@@ -1,7 +1,7 @@
 # photo_app
 photo_album
 
-# 기술 내역 
+## 기술 내역.
 - build tool : "webpack",
 - HttpRequests : "axios"
   Promise based HTTP client for the browser and node.js
