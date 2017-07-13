@@ -1,4 +1,4 @@
-# photo_app
+# photo_album
 - git study / nodejs study / ECMA6 script output
 
 ## technical description
