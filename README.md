@@ -1,5 +1,5 @@
 # photo_app
-- git study / nodejs study output
+- git study / nodejs study / ECMA6 script output
 
 ## technical description
 - build tool : "webpack",
